@@ -55,6 +55,7 @@ SignalRChat/
 - Visual Studio or any code editor
 
 **How It Works**
+
 The browser (client) connects to a SignalR Hub on the server.
 
 When a user sends a message:
